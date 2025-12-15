@@ -1,0 +1,28 @@
+Claro! Aqui está a paleta de cores completa usada na landing page:
+
+🎨 Paleta de Cores
+1. Branco Principal (Fundo)
+
+Código: #FFFFFF
+Uso: Fundo principal das seções, cards e elementos
+2. Dourado Primário (Destaque)
+
+Código: #D4AF37
+Uso: Elementos principais, ícones, círculos, bordas em hover, logo
+3. Cinza Escuro (Texto)
+
+Código: #1F2937
+Uso: Títulos, textos principais, headings
+4. Dourado Claro/Accent (Gradiente)
+
+Código: #F4E5C3
+Uso: Gradientes com o dourado primário, botões, efeitos
+5. Cinza Claro (Fundo Alternativo)
+
+Código: #F8F8F8
+Uso: Fundo de seções alternadas, destaque sutil
+Cores Complementares:
+
+Cinza Médio: #6B7280 (textos secundários)
+Cinza Background: #F9FAFB (fundos suaves)
+Cinza Footer: #111827 / #030712 (rodapé escuro)
